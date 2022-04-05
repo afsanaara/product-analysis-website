@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# Project name : Gucci-Dubai
+
+# Live site : https://rococo-brigadeiros-5202e3.netlify.app
+
+# About Project
+
+- It's contains review of gucci bag
+- Dashboard contains the graph of monthly sell,investment,revenue
+- Home page contains About product and some of customer review
+- This is a review based project
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +78,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
