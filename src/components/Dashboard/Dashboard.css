@@ -1,0 +1,8 @@
+.chart-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 40px;
+    margin: 0 auto;
+    padding: 60px;
+    margin: 0 auto;
+  }
