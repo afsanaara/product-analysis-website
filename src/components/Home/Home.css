@@ -1,0 +1,52 @@
+.banner-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  .banner-text {
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 100px;
+  }
+  
+  .banner-img img {
+    padding: 10px;
+    margin: 0 auto;
+    margin-left: 100px;
+  }
+
+  .shop-btn {
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+    line-height: 12px;
+    letter-spacing: 3.25px;
+    word-wrap: break-word;
+    padding: 23px 48px;
+    background-color: lightcyan;
+    border: 1px solid #242b2f;
+    cursor: pointer;
+  }
+  .shop-btn:hover {
+    background-color: white;
+    transition: color 0.2s ease-in-out;
+  }
+  .review-section {
+    height: 800px;
+    text-align: center;
+  }
+
+  .review-section button {
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+    line-height: 12px;
+    letter-spacing: 3.25px;
+    word-wrap: break-word;
+    padding: 23px 48px;
+    background-color: lightcyan;
+    border: 1px solid #242b2f;
+    cursor: pointer;
+  }
+  
+  
