@@ -1,0 +1,20 @@
+.header-container {
+    background-color: lightcyan;
+    height: 80px;
+  }
+  .nav-bar {
+    display: flex;
+    justify-content: center;
+  }
+  .nav-bar a {
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 20px;
+    color: black;
+  }
+  
+  .nav-bar a:hover {
+    color: orange;
+    opacity: 1;
+  }
+  
